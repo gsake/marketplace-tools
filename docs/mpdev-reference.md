@@ -63,5 +63,5 @@ The `--dry-run` option can be used to validate the schema of configuration files
 quickly without creating the `mpdev` resources.
 
 ```bash
-mpdev apply --dry-run -f mypackage/configurations.yaml
+mpdev apply --dryrun -f mypackage/configurations.yaml
 ```
